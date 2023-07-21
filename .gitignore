@@ -1,0 +1,7 @@
+node_modules/
+coverage/
+cache/
+artifacts/
+package-lock.json
+coverage.json
+.DS_Store
