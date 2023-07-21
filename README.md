@@ -1,1 +1,0 @@
-# To run project use `npm install`
